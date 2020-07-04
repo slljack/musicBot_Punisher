@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 const ytdl = require("ytdl-core")
 
-bot_secret_token = "NzI4NDkyMjUwNDM4NDM0ODM4.Xv-pnw.n2-hLb5Jo7cKBa-4VrwekZl2uzQ"
+bot_secret_token = "Token"
 client.login(bot_secret_token)
 
 
